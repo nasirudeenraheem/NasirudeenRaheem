@@ -6,11 +6,11 @@ He has completed series of projects in the Finance and Insurance sector; ranging
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Health and behavioral data 
-- 🌱 I’m currently learning ... Responsible AI, interpretable machine learning,Time series modelling, Causual Inference
-- 👯 I’m looking to collaborate on ... predictive modelling 
+- 🌱 I’m currently learning ... Responsible AI, interpretable machine learning,Natural Language Processing, Causual Inference
+- 👯 I’m looking to collaborate on ... predictive modelling, Natural Language Processing
 - 🤔 I’m looking for help with ... Responsible AI
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... https://www.linkedin.com/mwlite/in/nasirudeen-raheem-926b23157
+- 📫 How to reach me: ... https://www.linkedin.com/in/nasirudeen-raheem-mscds-926b23157/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Football 
 
